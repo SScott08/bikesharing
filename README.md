@@ -16,3 +16,8 @@ Results:
 Seven visualizations for the NYC Citibike adata have been created. The story details August peak hours, ridership, ridership by gender and ending location.
 It is important to recognize that this data is only a comparison to what a bike business in Des Moine can achieve. The bike sharing program is a great way for 
 people to exercise, lessen the stress on the transportation infrastructure in the city and for people to see the city at their leisure. 
+
+
+Challenge and citi bike workbooks
+https://public.tableau.com/profile/siobhan.scott#!/
+
